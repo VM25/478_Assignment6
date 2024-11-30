@@ -1,5 +1,7 @@
 # 🚀 Assignment 6: Global Energy Insights – Line Chart, Bar Chart, and Scatter Plot
 
+(I have included the README.md and cleaned dataset on my github in a public repo since Canvas would not let me upload a .csv file: https://github.com/VM25/478_Assignment6)
+
 In this assignment, you will explore global energy trends and relationships using the D3.js library. You will create three interactive visualizations:
 1. 📈 **Line Chart**: Analyze energy consumption trends over time.
 2. 📊 **Bar Chart**: Compare renewable energy contributions across countries.
